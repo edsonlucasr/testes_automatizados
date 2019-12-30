@@ -1,6 +1,6 @@
 Instruçoes para rodar no windows:
 
-1 - clonar ou baixar o projeto 
+1 - clonar ou baixar o projeto (Obs. Coloquei o numeral 1 nas pastas .idea e .vscode pois só assim foi possível realizar o upload, favor retirar o número ao salvar o projeto)
 2 - instalar o ruby
 3 - instalar o gems
 4 - registrar o drive do firefox (geckodriver) nas variaveis de ambiente: acessar Propriedades do Sistema, Variáveis de Ambiente. 
